@@ -1,0 +1,12 @@
+{
+  "name": "chatbot-skripsi",
+  "version": "1.0.0",
+  "description": "Chatbot Konsultasi Skripsi Berbasis AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

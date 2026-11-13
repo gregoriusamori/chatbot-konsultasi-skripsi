@@ -1,0 +1,29 @@
+==================================================
+PLANNING TUGAS BESAR CLOUD COMPUTING
+Mata Kuliah : Cloud Computing (UNISM.SI011)
+Dosen       : Nor Anisa, M.Kom.
+Nama        : Gregorius Amori
+NIM         : [NIM Anda]
+Proyek      : Chatbot Konsultasi Skripsi Berbasis AI
+Platform    : Hugging Face Spaces & Google Colab
+==================================================
+
+[✓] TAHAP 1: PERANCANGAN & PEMROGRAMAN (Google Colab)
+    - Menyiapkan script Python dengan Gradio/Streamlit.
+    - Menghubungkan logika bot konsultasi panduan skripsi.
+    - Menguji coba bot langsung di Colab.
+
+[ ] TAHAP 2: VERSION CONTROL (GitHub)
+    - Membuat repository publik di GitHub.
+    - Menyimpan file app.py dan requirements.txt.
+    - Push kode ke GitHub.
+
+[ ] TAHAP 3: CLOUD DEPLOYMENT (Hugging Face Spaces)
+    - Membuat Space baru di Hugging Face (SDK: Gradio).
+    - Menghubungkan atau mengunggah file dari GitHub.
+    - Mendapatkan URL publik aplikasi online.
+
+[ ] TAHAP 4: PENGUJIAN & LAPORAN
+    - Functional testing (uji input & respons chat).
+    - Pengambilan screenshot untuk laporan tugas besar.
+    - Penyusunan artikel ilmiah sesuai template prodi.
